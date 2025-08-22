@@ -24,3 +24,5 @@ pip install crewai 'crewai[tools]'
 ################
 create sample crew ai files
 crewai create crew ai-latest-devlopment
+
+python src/ai_latest_devlopment/main.py
